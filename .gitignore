@@ -1,0 +1,6 @@
+bin/
+.DS_Store
+*.Class
+*.dll
+*.xnb
+*.wma

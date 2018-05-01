@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{BAAEBEFA-8512-4F52-B3DA-F09DB6471B75}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpaceGame/Controller/Player.cs">
+    <Files>
+      <File FileName="SpaceGame/SpaceGame" Line="21" Column="4" />
+      <File FileName="SpaceGame/Controller/Player.cs" Line="12" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SpaceGame PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
