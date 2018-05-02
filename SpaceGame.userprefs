@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{BAAEBEFA-8512-4F52-B3DA-F09DB6471B75}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SpaceGame/Controller/Player.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpaceGame/Controller/SpaceGame.cs">
     <Files>
-      <File FileName="SpaceGame/SpaceGame" Line="21" Column="4" />
-      <File FileName="SpaceGame/Controller/Player.cs" Line="12" Column="5" />
+      <File FileName="SpaceGame/Model/Player.cs" Line="13" Column="33" />
+      <File FileName="SpaceGame/Controller/Program.cs" Line="14" Column="31" />
+      <File FileName="SpaceGame/Controller/SpaceGame.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
